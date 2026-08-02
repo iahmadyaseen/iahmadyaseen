@@ -1,6 +1,31 @@
-# 💫 About Me:
-### Hi there 👋, I'm Muhammad Ahmed<br><br>"Passionate developer building smart web applications and exploring modern AI models."<br><br>---<br><br>### 🛠️ About Me<br><br>🔭 **Currently working on:** MEDICIO (AI Healthcare Navigation Platform), updating my portfolio, AI Mobile Hub (AI Chatbot for Mobile Shop), and FOOD MART (React.js Frontend).<br> 👯 **Looking to collaborate on:** Full-stack web applications, AI integration projects (like chatbots), and open-source React/Next.js tools.<br> 🤝 **Looking for help with:** Advanced AI/ML optimization, database scaling, UI/UX design patterns, and frontend best practices (as a hardworking intern eager to learn and grow!).<br> 🌱 **Currently learning:** React.js, Django REST, PostgreSQL scaling, and AI/ML integration (as a hardworking intern).<br> 💬 **Ask me about:** Python, HTML, CSS, SQL, and AI/ML.<br> ⚡ **Fun fact:** Professional video editor specializing in documentaries, short films, beat-sync reels, and motion graphics—plus a passionate fast-bowling all-rounder on the tape-ball cricket pitch!<br><br>---<br><br><br><br>---<br><br>### 🌐 Connect with Me<br><br> 📧 **Email:** ay880625@gmail.com<br> 💼 **LinkedIn:** [muhammad-ahmed-yaseen](https://linkedin.com/in/muhammad-ahmed-yaseen)<br> 📘 **Facebook:** [iahmadyaseen](https://facebook.com/iahmadyaseen)<br> 🎵 **TikTok:** [@iahmadyaseen](https://www.tiktok.com/@iahmadyaseen)
+# Hi there 👋, I'm Muhammad Ahmed
 
+**Passionate developer building smart web applications and exploring modern AI models.**
+
+---
+
+## 🛠️ About Me
+
+- 🔭 **Currently working on:** MEDICIO (AI Healthcare Navigation Platform), updating my portfolio, AI Mobile Hub (AI Chatbot for Mobile Shop), and FOOD MART (React.js Frontend).
+
+- 👯 **Looking to collaborate on:** Full-stack web applications, AI integration projects, chatbots, and open-source React/Next.js tools.
+
+- 🤝 **Looking for help with:** Advanced AI/ML optimization, database scaling, UI/UX design patterns, and frontend best practices.
+
+- 🌱 **Currently learning:** React.js, Django REST, PostgreSQL scaling, and AI/ML integration.
+
+- 💬 **Ask me about:** Python, HTML, CSS, SQL, and AI/ML.
+
+- ⚡ **Fun fact:** Professional video editor specializing in documentaries, short films, beat-sync reels, and motion graphics — plus a passionate fast-bowling all-rounder on the tape-ball cricket pitch.
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email:** ay880625@gmail.com
+- 💼 **LinkedIn:** [muhammad-ahmed-yaseen](https://linkedin.com/in/muhammad-ahmed-yaseen)
+- 📘 **Facebook:** [iahmadyaseen](https://facebook.com/iahmadyaseen)
+- 🎵 **TikTok:** [@iahmadyaseen](https://www.tiktok.com/@iahmadyaseen)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iahmadyaseen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/muhammad-ahmed-yaseen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@iahmadyaseen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay8880625@gmail.com) 
