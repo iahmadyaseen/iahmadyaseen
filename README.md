@@ -1,6 +1,6 @@
 <div align="center">
 
-# Asslam O Alakim! 👋 I'm Muhammad Ahmed
+# Asslam O Alaikum! 👋 I'm Muhammad Ahmed
 
 <p align="center">
   <em>Software Engineer &bull; AI Developer &bull; Creative Creator</em>
