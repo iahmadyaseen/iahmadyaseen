@@ -1,31 +1,63 @@
-# Hi there 👋, I'm Muhammad Ahmed
+<div align="center">
 
-**Passionate developer building smart web applications and exploring modern AI models.**
+# Asslam O Alakim! 👋 I'm Muhammad Ahmed
+
+<p align="center">
+  <em>Software Engineer &bull; AI Developer &bull; Creative Creator</em>
+</p>
+
+[![Portfolio Badge](https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=for-the-badge&logo=appveyor)](https://github.com/)
+[![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Django%20%7C%20Python-blue?style=for-the-badge&logo=react)](https://github.com/)
+
+</div>
 
 ---
 
-## 🛠️ About Me
+## ⚡ Quick Snapshot
 
-- 🔭 **Currently working on:** MEDICIO (AI Healthcare Navigation Platform), updating my portfolio, AI Mobile Hub (AI Chatbot for Mobile Shop), and FOOD MART (React.js Frontend).
+<div align="center">
 
-- 👯 **Looking to collaborate on:** Full-stack web applications, AI integration projects, chatbots, and open-source React/Next.js tools.
+| Area | Focus Details |
+| :--- | :--- |
+| **🚀 Building** | **MEDICIO** (AI Healthcare Navigation Platform), Portfolio, **AI Mobile Hub** (Shop Chatbot), & **FOOD MART** |
+| **🌱 Exploring** | Advanced AI/ML integration, Django REST, and PostgreSQL scaling |
+| **🤝 Let's Connect** | Full-stack apps, AI tools, chatbots, and open-source React/Next.js projects |
+| **🎯 Seeking** | Guidance on advanced AI/ML optimization, database scaling, and UI/UX design patterns |
 
-- 🤝 **Looking for help with:** Advanced AI/ML optimization, database scaling, UI/UX design patterns, and frontend best practices.
+</div>
 
-- 🌱 **Currently learning:** React.js, Django REST, PostgreSQL scaling, and AI/ML integration.
+---
 
-- 💬 **Ask me about:** Python, HTML, CSS, SQL, and AI/ML.
+## 🛠️ Tech Stack & Arsenal
 
-- ⚡ **Fun fact:** Professional video editor specializing in documentaries, short films, beat-sync reels, and motion graphics — plus a passionate fast-bowling all-rounder on the tape-ball cricket pitch.
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Core** | `Python`, `HTML5`, `CSS3`, `SQL`, `JavaScript` |
+| **Frameworks & Libs** | `React.js`, `Next.js`, `Django`, `Node.js`, `Tailwind CSS` |
+| **Databases** | `PostgreSQL`, `MySQL` |
+| **DevOps & Tools** | `Git`, `GitHub`, `Docker`, `Figma` |
+
+</div>
+
+---
+
+## 🎬 Beyond the Code
+
+* 🎥 **Visual Storyteller:** Professional video editor specializing in documentaries, short films, beat-sync reels, and motion graphics.
+* 🏏 **On the Pitch:** Passionate fast-bowling all-rounder dominating the tape-ball cricket crease.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 **Email:** ay880625@gmail.com
-- 💼 **LinkedIn:** [muhammad-ahmed-yaseen](https://linkedin.com/in/muhammad-ahmed-yaseen)
-- 📘 **Facebook:** [iahmadyaseen](https://facebook.com/iahmadyaseen)
-- 🎵 **TikTok:** [@iahmadyaseen](https://www.tiktok.com/@iahmadyaseen)
+<p align="center">
+  <a href="mailto:ay880625@gmail.com"><img src="https://img.shields.io/badge/Email-ay880625@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/muhammad-ahmed-yaseen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-muhammad--ahmed--yaseen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://facebook.com/iahmadyaseen" target="_blank"><img src="https://img.shields.io/badge/Facebook-iahmadyaseen-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://tiktok.com/@iahmadyaseen" target="_blank"><img src="https://img.shields.io/badge/TikTok-@iahmadyaseen-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iahmadyaseen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/muhammad-ahmed-yaseen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@iahmadyaseen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay8880625@gmail.com) 
